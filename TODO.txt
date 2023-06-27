@@ -3,9 +3,9 @@
     - add experience
     - move photo around
 - pub:
-    - add number
-    - figure out the order
-    - do not collapse authors
+    - add number: use script to generate bib and add number
+    + figure out the order (order in bib)
+    + do not collapse authors
     - add to appear
 - about:
     + add "last updated"
