@@ -1,0 +1,9 @@
+- about:
+    - add social media icons
+    - add experience
+    - move photo around
+- pub:
+    - add number
+    - figure out the order
+- about:
+    + add "last updated"
