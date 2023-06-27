@@ -6,6 +6,7 @@
     - add number
     - figure out the order
     - do not collapse authors
+    - add to appear
 - about:
     + add "last updated"
 - save cv at some place
