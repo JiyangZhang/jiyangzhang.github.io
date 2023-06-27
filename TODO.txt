@@ -5,6 +5,7 @@
 - pub:
     - add number
     - figure out the order
+    - do not collapse authors
 - about:
     + add "last updated"
 - save cv at some place
