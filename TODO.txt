@@ -7,3 +7,4 @@
     - figure out the order
 - about:
     + add "last updated"
+- save cv at some place
