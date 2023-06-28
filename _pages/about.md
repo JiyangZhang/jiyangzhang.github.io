@@ -23,10 +23,13 @@ I am a PhD student in Electrical and Computer
 Engineering at [University of Texas at Austin](https://www.utexas.edu/), advised by [Prof. Milos
 Gligoric](http://users.ece.utexas.edu/~gligoric/) and [Junyi Jessy Li](https://jessyli.com/). I am interested in
 applying Natural Language Processing (NLP) and Machine Learning techniques
-to Software Engineering to help software engineers be more productive. Previously,
+to Software Engineering to help software engineers be more productive.
+<br>
+Previously,
 I completed my undergraduate study at ShenYuan Honors
 College, [Beihang
 University](https://ev.buaa.edu.cn/) in 2019.
+Before that, I spent one sememster as an exchange undergradute at University of Toronto and one semester as research assistant at University of Montreal in Canada.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 <!-- 
