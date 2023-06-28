@@ -9,3 +9,4 @@
     + do not collapse authors
     + add to appear
 - save cv at some place
+- google sitemap
