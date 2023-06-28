@@ -1,0 +1,68 @@
+[
+    {
+        "macro": "ZhangETALDeltaCode",
+        "title": "Multilingual Code Co-Evolution Using Large Language Models",
+        "authors": "Jiyang Zhang and Pengyu Nie and Junyi Jessy Li and Milos Gligoric",
+        "booktitle": "FSE#\" to appear\"",
+        "year": "2023"
+    },
+    {
+        "macro": "ZhangETAL23Using",
+        "title": "Using Large-scale Heterogeneous Graph Representation Learning for Code Review Recommendations at Microsoft",
+        "authors": "Jiyang Zhang and Maddila, Chandra and Bairi, Ram and Bird, Christian and Raizada, Ujjwal and Agrawal, Apoorva and Jhawar, Yamini and Herzig, Kim and van Deursen, Arie",
+        "booktitle": "ICSE-SEIP",
+        "year": "2023"
+    },
+    {
+        "macro": "ZhangETAL23Leveraging",
+        "title": "Leveraging Code-Change Information for Faster Regression Test Selection in Projects with Limited Histories",
+        "authors": "Liu, Yu and Jiyang Zhang and Nie, Pengyu and Gligoric, Milos and Legunsen, Owolabi",
+        "booktitle": "ISSTA",
+        "year": "2023"
+    },
+    {
+        "macro": "ZhangETAL22CoditT5",
+        "title": "CoditT5: Pretraining for Source Code and Natural Language Editing",
+        "authors": "Jiyang Zhang and Panthaplackel, Sheena and Nie, Pengyu and Li, Junyi Jessy and Mooney, Raymond and Gligoric, Milos",
+        "booktitle": "ASE",
+        "year": "2022"
+    },
+    {
+        "macro": "ZhangETAL22Python",
+        "title": "Python-by-Contract Dataset",
+        "authors": "Jiyang Zhang and Ristin, Marko and Phillip, Schanely and Wernher van de Venn, Hans and Gligoric, Milos",
+        "booktitle": "ESECFSE-DEMO",
+        "year": "2022"
+    },
+    {
+        "macro": "NieETAL22Impact",
+        "title": "Impact of evaluation methodologies on code summarization",
+        "authors": "Nie, Pengyu and Jiyang Zhang and Li, Junyi Jessy and Mooney, Raymond and Gligoric, Milos",
+        "booktitle": "ACL",
+        "pages": "4936--4960",
+        "year": "2022"
+    },
+    {
+        "macro": "ZhangETAL22Comparing",
+        "title": "Comparing and Combining Analysis-Based and Learning-Based Regression Test Selection",
+        "authors": "Jiyang Zhang and Liu, Yu and Gligoric, Milos and Legunsen, Owolabi and Shi, August",
+        "booktitle": "AST",
+        "pages": "17--28",
+        "year": "2022"
+    },
+    {
+        "macro": "ZhangETAL20Leveraging",
+        "title": "Leveraging class hierarchy for code comprehension",
+        "authors": "Jiyang Zhang and Panthaplackel, Sheena and Nie, Pengyu and Li, Junyi Jessy and Mooney, Raymond J. and Gligoric, Milos",
+        "booktitle": "CAP",
+        "year": "2020"
+    },
+    {
+        "macro": "NieETAL19Integrated",
+        "title": "Integrated Learning of Features and Ranking Function in Information Retrieval",
+        "authors": "Nie, Yifan and Jiyang Zhang and Nie, Jian-Yun",
+        "booktitle": "ICTIR",
+        "pages": "67--74",
+        "year": "2019"
+    }
+]
