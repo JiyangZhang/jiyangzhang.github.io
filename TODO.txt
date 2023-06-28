@@ -1,12 +1,11 @@
 - about:
-    - add social media icons
+    + add social media icons
     - add experience
     - move photo around
 - pub:
-    - add number: use script to generate bib and add number
+    - add paper link, bib etc.
+    + add number: use script to generate bib and add number
     + figure out the order (order in bib)
     + do not collapse authors
-    - add to appear
-- about:
-    + add "last updated"
+    + add to appear
 - save cv at some place
