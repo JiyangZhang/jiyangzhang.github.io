@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I join Salesforce Research as a research intern this summer!
+I joined Salesforce Research as a research intern this summer!
