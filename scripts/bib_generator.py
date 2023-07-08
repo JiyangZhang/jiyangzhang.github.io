@@ -34,6 +34,7 @@ class BibGenerator:
         
         NOTE: 1. json file should exit in the _bibliography directory
               2. pubs should ordered in order (latest at the top)
+        command: python -m bib_generator generate_bib_file --json_file_name papers.json
         """
 
         publication_list = su.io.load(self.pub_src_path / json_file_name)
