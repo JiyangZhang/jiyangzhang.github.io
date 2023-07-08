@@ -14,8 +14,8 @@
         "year": "2023"
     },
     {
-        "macro": "ZhangETAL23Leveraging",
-        "title": "Leveraging Code-Change Information for Faster Regression Test Selection in Projects with Limited Histories",
+        "macro": "ZhangETAL23More",
+        "title": "More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes",
         "authors": "Liu, Yu and Jiyang Zhang and Nie, Pengyu and Gligoric, Milos and Legunsen, Owolabi",
         "booktitle": "ISSTA",
         "year": "2023"
