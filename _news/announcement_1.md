@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-22 00:00:00-0400
+date: 2023-07-17 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I joined Salesforce Research as a research intern this summer!
+Our paper "More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes" got ACM SIGSOFT Distinguished Paper award at ISSTA 2023!
