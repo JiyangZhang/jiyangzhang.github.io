@@ -1,12 +1,5 @@
-- about:
-    + add social media icons
-    - add experience
-    - move photo around
-- pub:
-    - add paper link, bib etc.
-    + add number: use script to generate bib and add number
-    + figure out the order (order in bib)
-    + do not collapse authors
-    + add to appear
-- save cv at some place
-- google sitemap
+Aug 22:
+1. FSE camera-ready:
+   1) update cross-project results
+   2) finish the new table
+   3) set up script for chatgpt results
