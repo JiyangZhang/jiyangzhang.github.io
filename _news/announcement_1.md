@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes" got ACM SIGSOFT Distinguished Paper award at ISSTA 2023!
+Our paper "More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes" won an ACM SIGSOFT Distinguished Paper award at ISSTA 2023!

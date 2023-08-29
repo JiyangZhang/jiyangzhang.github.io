@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to FSE 2023!
+One paper "Multilingual Code Co-Evolution Using Large Language Models" is accepted to FSE 2023!
