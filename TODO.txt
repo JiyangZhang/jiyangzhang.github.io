@@ -1,3 +1,8 @@
+Aug 29:
+- Get familiar with code on etestgen
+- FSE camera-ready random things
+- take course CSAPP watch video
+
 Aug 22:
 1. FSE camera-ready:
    1) update cross-project results
