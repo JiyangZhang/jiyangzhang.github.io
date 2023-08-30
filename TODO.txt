@@ -1,7 +1,15 @@
+Aug 30"
+- etestgen
+  - run code and fix bug
+  - create a small dataset
+- read paper for course
+- CSAPP video
+
+
 Aug 29:
-- Get familiar with code on etestgen
-- FSE camera-ready random things
-- take course CSAPP watch video
++ Get familiar with code on etestgen
++ FSE camera-ready random things
++ take course CSAPP watch video
 
 Aug 22:
 1. FSE camera-ready:
