@@ -1,6 +1,13 @@
-Aug 30"
+Aug 31:
 - etestgen
-  - run code and fix bug
+  - fix bug, collect dataset
+- fse23
+  - make a pass
+- CSAPP video
+
+Aug 30:
+- etestgen
+  + run code and fix bug
   - create a small dataset
 - read paper for course
 - CSAPP video
