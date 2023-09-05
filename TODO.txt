@@ -1,9 +1,16 @@
-Aug 31:
-- etestgen
-  - fix bug, collect dataset
+Sep 5
+- etestgen:
+  - run scripts on more projects
+  - play with playground for collected data
 - fse23
-  - make a pass
-- CSAPP video
+  - prepare for the code
+  
+Aug 31:
++ etestgen
+  + fix bug, collect dataset
++ fse23
+  + make a pass
++ CSAPP video
 
 Aug 30:
 - etestgen
