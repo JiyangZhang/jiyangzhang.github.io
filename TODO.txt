@@ -1,8 +1,12 @@
-Sep 6
+Sep 7:
 - etestgen:
-  - run scripts on more projects
-  - run examples from 2 projects, prepare for meeting
-- CSAPP
+  - setup script to call openai api
+    
+Sep 6
++ etestgen:
+  + run scripts on more projects
+  + run examples from 2 projects, prepare for meeting
++ CSAPP
 
 Sep 5
 - etestgen:
