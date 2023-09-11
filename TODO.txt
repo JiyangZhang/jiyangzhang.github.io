@@ -1,6 +1,20 @@
-Sep 7:
+Sep 11:
 - etestgen:
-  - setup script to call openai api
+  - ensure dataset is corrected collected
+  - get stats, and exp results
+- QA:
+  - check Pengyu dataset
+  
+Sep 8:
++ etestgen:
+  + prepare demo, figure out bug
+- QA:
+  - check Pengyu's dataset
+- read one paper
+
+Sep 7:
++ etestgen:
+  + setup script to call openai api
     
 Sep 6
 + etestgen:
