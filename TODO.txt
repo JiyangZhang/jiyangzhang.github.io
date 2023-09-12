@@ -1,9 +1,26 @@
-Sep 11:
+Sep 12:
 - etestgen:
-  - ensure dataset is corrected collected
-  - get stats, and exp results
-- QA:
-  - check Pengyu dataset
+  - finish generate with call trace:
+    - figure out token number, get stats
+    - generate response with few examples
+    - run and eval
+  - stats:
+    - # etest
+    - # checked and # unchecked
+    - # have stack trace
+    - avg. len stack trace
+- benchmark:
+  - take a look at existing benchmark
+- csapp
+
+
+Sep 11:
++ etestgen:
+  + ensure dataset is corrected collected
+  + get stats, and exp results
+    + try chatgpt with traces
++ deltr:
+  + add TODO to opensource, prepare data
   
 Sep 8:
 + etestgen:
