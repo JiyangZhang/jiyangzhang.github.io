@@ -1,17 +1,25 @@
-Sep 12:
+Sep 13:
 - etestgen:
-  - finish generate with call trace:
-    - figure out token number, get stats
-    - generate response with few examples
-    - run and eval
-  - stats:
-    - # etest
-    - # checked and # unchecked
-    - # have stack trace
-    - avg. len stack trace
-- benchmark:
-  - take a look at existing benchmark
-- csapp
+  - get results for the current results
+  - make a report for meeting
+- dataset:
+  - check the script
+- csapp finish exception video
+
+Sep 12:
++ etestgen:
+  + finish generate with call trace:
+    + figure out token number, get stats
+    + generate response with few examples
+    + run and eval
+  + stats:
+    + # etest
+    + # checked and # unchecked
+    + # have stack trace
+    + avg. len stack trace
++ benchmark:
+  + take a look at existing benchmark
++ csapp
 
 
 Sep 11:
