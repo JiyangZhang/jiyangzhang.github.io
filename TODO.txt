@@ -1,7 +1,11 @@
+Sep 14:
+- paper reading (RAG)
+- re-think the project
+
 Sep 13:
-- etestgen:
-  - get results for the current results
-  - make a report for meeting
++ etestgen:
+  + get results for the current results
+  + make a report for meeting
 - dataset:
   - check the script
 - csapp finish exception video
