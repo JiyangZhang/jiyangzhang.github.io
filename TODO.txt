@@ -1,6 +1,13 @@
+Sep 18:
+- etestgen:
+  - collect data script on more projects
+  - rethink: distillation, instructoin-finetuning
+- csapp:
+  - check lab
+
 Sep 14:
-- paper reading (RAG)
-- re-think the project
++ paper reading (RAG)
++ re-think the project
 
 Sep 13:
 + etestgen:
