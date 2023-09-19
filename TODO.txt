@@ -1,7 +1,17 @@
+Sep 19:
+- etestgen:
+  * collect data script on more projects
+  + test script for ne2e data.
+  - rethink: distillation, instruction-finetuning
+- csapp:
+  - check lab
+
+
 Sep 18:
 - etestgen:
-  - collect data script on more projects
-  - rethink: distillation, instructoin-finetuning
+  * collect data script on more projects
+  - test script for ne2e data.
+  - rethink: distillation, instruction-finetuning
 - csapp:
   - check lab
 
