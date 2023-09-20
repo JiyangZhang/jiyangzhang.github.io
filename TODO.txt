@@ -1,10 +1,16 @@
+Sep 20:
+- etestgen:
+  - finish etest collection and provide stats
+  - present codellama results
+  - prepare meeting docs and plan
+  
 Sep 19:
 - etestgen:
-  * collect data script on more projects
+  + collect data script on more projects
   + test script for ne2e data.
   - rethink: distillation, instruction-finetuning
-- csapp:
-  - check lab
++ csapp:
+  + check lab
 
 
 Sep 18:
