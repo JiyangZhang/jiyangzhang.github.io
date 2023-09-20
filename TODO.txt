@@ -1,8 +1,8 @@
 Sep 20:
 - etestgen:
-  - finish etest collection and provide stats
-  - present codellama results
-  - prepare meeting docs and plan
+  + finish etest collection and provide stats
+  + present codellama results
+  + prepare meeting docs and plan
   
 Sep 19:
 - etestgen:
