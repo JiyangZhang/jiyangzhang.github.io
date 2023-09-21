@@ -1,5 +1,13 @@
-Sep 20:
+Sep 21:
 - etestgen:
+  - run data collection and make sure it is correct
+  - start to collect ne-e dataset
+  - finish script to compute compilable and runnable metrics
+- CSAPP:
+  - start on shell lab
+
+Sep 20:
++ etestgen:
   + finish etest collection and provide stats
   + present codellama results
   + prepare meeting docs and plan
