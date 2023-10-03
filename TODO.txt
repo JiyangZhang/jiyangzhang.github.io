@@ -1,8 +1,16 @@
+Oct 3:
+- etestgen:
+  - runtime metrics
+  - ne2e data collection
+- send emails
+- CSAPP:
+  - shell lab
+
 Sep 21:
 - etestgen:
-  - run data collection and make sure it is correct
+  * run data collection and make sure it is correct
   - start to collect ne-e dataset
-  - finish script to compute compilable and runnable metrics
+  + finish script to compute compilable and runnable metrics
 - CSAPP:
   - start on shell lab
 
