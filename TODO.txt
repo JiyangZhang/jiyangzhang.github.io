@@ -1,10 +1,16 @@
-Oct 3:
+Oct 4:
 - etestgen:
-  - runtime metrics
-  - ne2e data collection
-- send emails
-- CSAPP:
-  - shell lab
+  + meeting
+  - script to collect ne data
+- watch NJU course
+
+Oct 3:
++ etestgen:
+  + runtime metrics
+  * ne2e data collection
++ send emails
++ CSAPP:
+  + shell lab
 
 Sep 21:
 - etestgen:
