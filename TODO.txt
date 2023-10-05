@@ -1,8 +1,18 @@
-Oct 4:
+Oct 5:
 - etestgen:
+  - collect ne2e dataset
+  - design prompt for ne2e data
+  - split ne2e (randomly select 5 ne tests)
+  - check 200 call trace examples.
+  - conditions:
+    - use TurboGPT to call GPT-4 to get conditions
+    - input includes conditions or output includes conditions
+
+Oct 4:
++ etestgen:
   + meeting
-  - script to collect ne data
-- watch NJU course
+  + script to collect ne data
++ watch NJU course
 
 Oct 3:
 + etestgen:
