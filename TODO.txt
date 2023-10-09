@@ -1,11 +1,20 @@
+Oct 9:
+- etestgen:
+  - create ne2e-one dataset (sample one example from netest)
+  - split ne2e-one
+  - study deepspeed
+- qa:
+  - finish script and test it on one project
+  - start running on 1.5k projects
+
 Oct 5:
 - etestgen:
-  - collect ne2e dataset
-  - design prompt for ne2e data
-  - split ne2e (randomly select 5 ne tests)
+  + collect ne2e dataset
+  + design prompt for ne2e data
+  + split ne2e (randomly select 5 ne tests)
   - check 200 call trace examples.
   - conditions:
-    - use TurboGPT to call GPT-4 to get conditions
+    - use together ai to get conditions from Larger model.
     - input includes conditions or output includes conditions
 
 Oct 4:
