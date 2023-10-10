@@ -1,11 +1,20 @@
+Oct 10:
+- etestgen:
+  - prepare doc:
+    - stats for ne2e-full
+    - metrics ne2e
+    - val results mut2e-codellama
+- qa:
+  - write a test for the script
+
 Oct 9:
 - etestgen:
-  - create ne2e-one dataset (sample one example from netest)
-  - split ne2e-one
+  + create ne2e-one dataset (sample one example from netest)
+  + split ne2e-one
   - study deepspeed
-- qa:
-  - finish script and test it on one project
-  - start running on 1.5k projects
++ qa:
+  + finish script and test it on one project
+  + start running on 1.5k projects
 
 Oct 5:
 - etestgen:
