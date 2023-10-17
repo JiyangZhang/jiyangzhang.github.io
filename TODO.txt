@@ -1,3 +1,16 @@
+Oct 16:
+- etestgen:
+  - prepare meeting doc
+  - see stack2e results
+  - check dataset
+
+Oct 11:
+- etestgen:
+  - launch ne2e-one exp
+  - analyze the mut2e results
+- qa:
+  - see results
+
 Oct 10:
 - etestgen:
   - prepare doc:
