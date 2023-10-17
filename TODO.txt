@@ -1,8 +1,11 @@
 Oct 16:
 - etestgen:
   - prepare meeting doc
+  - regex to match expected exception
   - see stack2e results
   - check dataset
+- seminar
+  - read paper
 
 Oct 11:
 - etestgen:
