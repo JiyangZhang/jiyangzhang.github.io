@@ -1,3 +1,10 @@
+Oct 19:
+- etestgen:
+  - finish script to recollect ne pairs
+    - debug and check examples
+- qa:
+  - check the script
+
 Oct 16:
 - etestgen:
   - prepare meeting doc
