@@ -1,9 +1,15 @@
-Oct 19:
+Oct 20:
 - etestgen:
-  - finish script to recollect ne pairs
-    - debug and check examples
+  - prepare script for collecting new ne2e dataset
+  - recreate the runtime metrics table
+  - launch combinition exps
+
+Oct 19:
++ etestgen:
+  + finish script to recollect ne pairs
+    + debug and check examples
 - qa:
-  - check the script
+  + check the script
 
 Oct 16:
 - etestgen:
