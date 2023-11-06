@@ -1,9 +1,9 @@
 Nov 6:
 - etestgen:
-  - new test data stats table
-  - compare new test data with covstack2e test data
+  + new test data stats table
+  + compare new test data with covstack2e test data
+  - Extract the possible useful test context can we provide test file context given the same mut?
   - run inference on different data
-  - can we provide test file context given the same mut?
 - qa:
   - write script to collect dataset
 
