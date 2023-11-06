@@ -1,6 +1,15 @@
+Nov 6:
+- etestgen:
+  - new test data stats table
+  - compare new test data with covstack2e test data
+  - run inference on different data
+  - can we provide test file context given the same mut?
+- qa:
+  - write script to collect dataset
+
 Oct 20:
 - etestgen:
-  - prepare script for collecting new ne2e dataset
+  + prepare script for collecting new ne2e dataset
   - recreate the runtime metrics table
   - launch combinition exps
 
