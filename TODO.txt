@@ -1,3 +1,23 @@
+Nov 20:
+- etestgen:
+  - summarize the ablations and results
+  - manually try prompts
+  - come up with ideas
+  - add text to the paper
+- intern:
+  - read NLP interview questions
+  - apply new positions (at least 2)
+- look at the materials for fellowship
+
+Nov 7:
+- etestgen:
+  - eval the generated tests
+    - prepare the scripts and data
+    - similarity metrics
+    - runtime metrics
+- qa:
+  - investigate the collected data, update the script
+  
 Nov 6:
 - etestgen:
   + new test data stats table
