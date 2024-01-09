@@ -6,7 +6,7 @@ subtitle: Ph.D. @ UT Austin
 
 profile:
   align: right
-  image: profile2022.JPG
+  image: profile2023.JPG
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
