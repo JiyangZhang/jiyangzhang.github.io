@@ -1,8 +1,32 @@
+Feb 5:
+- etestgen: (2h)
+  + dataset for rq2
+  - start training models on new dataset rq2
+  - update metric
+- slides: (2h)
+  - make slides and practice
+- RL: (2h)
+  - wactch lectures
+
+Jan 14:
+- prepare results for the setting we discussed on Fri
+- finish reading chapters in the RL book
+
+Nov 21:
+- etestgen
+  - update script for data collection:
+    + collect source code for all methods.
+      - check if there does not exist corresponding source code
+    - include the called line number in stack trace.
+    - manually check each stack trace if the throw statement is not in the last called method.
+   
+  
+
 Nov 20:
 - etestgen:
-  - summarize the ablations and results
-  - manually try prompts
-  - come up with ideas
+  + summarize the ablations and results
+  + manually try prompts
+  + come up with ideas
   - add text to the paper
 - intern:
   - read NLP interview questions
