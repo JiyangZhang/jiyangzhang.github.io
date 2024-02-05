@@ -4,14 +4,16 @@
         "title": "Multilingual Code Co-Evolution Using Large Language Models",
         "authors": "Jiyang Zhang and Pengyu Nie and Junyi Jessy Li and Milos Gligoric",
         "booktitle": "FSE#\" to appear\"",
-        "year": "2023"
+        "year": "2023",
+        "arxiv": "2307.14991"
     },
     {
         "macro": "ZhangETAL23Using",
         "title": "Using Large-scale Heterogeneous Graph Representation Learning for Code Review Recommendations at Microsoft",
         "authors": "Jiyang Zhang and Maddila, Chandra and Bairi, Ram and Bird, Christian and Raizada, Ujjwal and Agrawal, Apoorva and Jhawar, Yamini and Herzig, Kim and van Deursen, Arie",
         "booktitle": "ICSE-SEIP",
-        "year": "2023"
+        "year": "2023",
+        "arxiv": "2202.02385"
     },
     {
         "macro": "ZhangETAL23More",
