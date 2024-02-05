@@ -8,10 +8,6 @@ profile:
   align: right
   image: profile2023.JPG
   image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Austin, Texas</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -24,6 +20,7 @@ Engineering at [University of Texas at Austin](https://www.utexas.edu/), advised
 Gligoric](http://users.ece.utexas.edu/~gligoric/) and [Junyi Jessy Li](https://jessyli.com/). I am interested in
 applying Natural Language Processing (NLP) and Machine Learning techniques
 to Software Engineering to help software engineers be more productive.
+You can find my CV [here](/assets/pdf/JiyangResume.pdf).
 <br>
 Previously,
 I completed my undergraduate study at ShenYuan Honors
