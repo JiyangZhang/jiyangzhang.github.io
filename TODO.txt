@@ -1,12 +1,22 @@
+Feb 6:
+- etestgen (4h)
+  - compute metric towards rq2
+  - start inference on condition model
+  - throw statement coverage?
+- slides:
+  - practice at least twice
+- interview:
+  - prepare interview, ML knowledge, system design
+
 Feb 5:
-- etestgen: (2h)
++ etestgen: (2h)
   + dataset for rq2
-  - start training models on new dataset rq2
-  - update metric
-- slides: (2h)
-  - make slides and practice
-- RL: (2h)
-  - wactch lectures
+  + start training models on new dataset rq2
+  + update metric
++ slides: (2h)
+  + make slides and practice
++ RL: (2h)
+  + wactch lectures
 
 Jan 14:
 - prepare results for the setting we discussed on Fri
