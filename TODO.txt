@@ -1,3 +1,15 @@
+Feb 8:
+- etestgen (2h)
+  - rq2 results
+  - write paper
+  - meeting
+- slides (4h):
+  - write script
+  - remake slides
+- interview:
+  - prepare LM knowledge
+  - collect research ideas
+
 Feb 6:
 - etestgen (4h)
   - compute metric towards rq2
