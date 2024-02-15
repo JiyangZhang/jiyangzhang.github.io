@@ -1,3 +1,8 @@
+Feb 15:
+- CoditLlama (2h)
+  - try output: unifed_diff + output
+  - try eval on latest checkpoint
+
 Feb 8:
 - etestgen (2h)
   - rq2 results
