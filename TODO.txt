@@ -1,3 +1,10 @@
+Feb 18:
+- etestgen (3h):
+  - start running condition + 5 sample
+  - analyze the tool results
+- CoditLlama (1h):
+  - start generation
+
 Feb 15:
 - CoditLlama (2h)
   - try output: unifed_diff + output
