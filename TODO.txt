@@ -2,8 +2,8 @@ Feb 19:
 - etestgen (3h):
   - check and generate tool results
   - process sample 5 results and add to paper
-- CoditLlama (2h):
-  - start generation and compute metrics
++ CoditLlama (2h):
+  + start generation and compute metrics
 - RL (2h):
   - watch videos and read book
 
