@@ -1,11 +1,20 @@
+Feb 20:
++ RL: (1.5h)
+  - read books
+- etestgen:
+  - add results to paper (1h)
+  - inspect generations and check with Milos (2h)
+- CoditLlama (2h):
+  - figure out why generation is bad with java
+
 Feb 19:
-- etestgen (3h):
-  - check and generate tool results
-  - process sample 5 results and add to paper
++ etestgen (3h):
+  + check and generate tool results
+  + process sample 5 results and add to paper
 + CoditLlama (2h):
   + start generation and compute metrics
-- RL (2h):
-  - watch videos and read book
++ RL (2h):
+  + watch videos and read book
 
 Feb 18:
 - etestgen (3h):
