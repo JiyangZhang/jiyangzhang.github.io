@@ -1,3 +1,12 @@
+Feb 21:
+- etestgen:
+  - compute throw stmt coverage for tools.
+  - compute throw stmt coverage for our models.
+  - re-run nestack2e-all-no-name
+  - start run rq2 with all ne-test
+- RL:
+  - read books and see slides
+  
 Feb 20:
 + RL: (1.5h)
   - read books
