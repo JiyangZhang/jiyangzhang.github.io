@@ -1,11 +1,21 @@
+Feb 22:
+- CoditLlama:
+  - re-train with new dataset
+- etestgen:
+  - update tables
+  - check generated e-tests
+- RL:
+  - finish MC methods
+
+
 Feb 21:
 - etestgen:
-  - compute throw stmt coverage for tools.
-  - compute throw stmt coverage for our models.
-  - re-run nestack2e-all-no-name
-  - start run rq2 with all ne-test
+  + compute throw stmt coverage for tools.
+  + compute throw stmt coverage for our models.
+  + re-run nestack2e-all-no-name
+  + start run rq2 with all ne-test
 - RL:
-  - read books and see slides
+  + read books and see slides
   
 Feb 20:
 + RL: (1.5h)
