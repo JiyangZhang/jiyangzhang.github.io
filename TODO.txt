@@ -2,8 +2,12 @@ Feb 22:
 + CoditLlama:
   * re-train with new dataset
 - etestgen:
-  - update tables
+  + update tables
   - check generated e-tests
+    - write script
+    - prepare examples
+- Seminar:
+  - read paper and leave comments
 - RL:
   - finish MC methods
 
