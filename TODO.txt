@@ -1,6 +1,6 @@
 Feb 22:
-- CoditLlama:
-  - re-train with new dataset
++ CoditLlama:
+  * re-train with new dataset
 - etestgen:
   - update tables
   - check generated e-tests
