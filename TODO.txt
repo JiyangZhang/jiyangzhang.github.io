@@ -1,8 +1,8 @@
 Feb 26:
 - etestgen:
-  - update TODO, check the entire paper
+  + update TODO, check the entire paper
   - start gen on 13B models and eval
-  - Ask Milos next step
+  + Ask Milos next step
 - CoditLlama:
   - try multi node training
 - RL:
