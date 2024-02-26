@@ -1,12 +1,28 @@
+Feb 26:
+- etestgen:
+  - update TODO, check the entire paper
+  - start gen on 13B models and eval
+  - Ask Milos next step
+- CoditLlama:
+  - try multi node training
+- RL:
+  - read TD learning
+- Paper:
+  - watch Li Mu video
+
+Feb 23:
+- etestgen:
+  -
+
 Feb 22:
 + CoditLlama:
   * re-train with new dataset
 - etestgen:
   + update tables
-  - check generated e-tests
+  + check generated e-tests
     - write script
     - prepare examples
-- Seminar:
++ Seminar:
   - read paper and leave comments
 - RL:
   - finish MC methods
