@@ -4,11 +4,11 @@ Feb 26:
   - start gen on 13B models and eval
   + Ask Milos next step
 - CoditLlama:
-  - try multi node training
+  + try multi node training (waiting still)
 - RL:
   - read TD learning
 - Paper:
-  - watch Li Mu video
+  - watch Shunyu's talk
 
 Feb 23:
 - etestgen:
