@@ -1,8 +1,18 @@
+Feb 28:
+- etestgen:
+  - create examples
+  - check with Yuki
+- presentation:
+  - prepare for the presentation
+- CoditLlama:
+  - see how multi-node work
+
+
 Feb 27:
 - etestgen:
-  - update randoop and evosuite results
-  - update table of projects
-  - update 13b results
+  + update randoop and evosuite results
+  + update table of projects
+  + update 13b results
   - ask Milos to check paper
 - RL:
   - finish TD learning
