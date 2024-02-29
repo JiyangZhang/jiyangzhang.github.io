@@ -1,11 +1,23 @@
+Feb 29:
+- etestgen:
+  - find examples where evosuite or randoop is able to generate e-tests
+  - make a pass to the paper
+- presentation:
+  - write script for presentation
+  - prepare for demo
+- paper:
+  - Code-Aware Prompting
+
+
 Feb 28:
 - etestgen:
-  - create examples
-  - check with Yuki
+  + create examples
+  + check with Yuki
 - presentation:
-  - prepare for the presentation
+  + prepare for the presentation
+  + try huggingface animation
 - CoditLlama:
-  - see how multi-node work
+  + see how multi-node work
 
 
 Feb 27:
