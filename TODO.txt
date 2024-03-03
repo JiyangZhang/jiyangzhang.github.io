@@ -1,8 +1,12 @@
-Feb 29:
+Mar 3:
 - etestgen:
+  - finish todo items as many as possible
+
+Feb 29:
++ etestgen:
   - find examples where evosuite or randoop is able to generate e-tests
   - make a pass to the paper
-- presentation:
++ presentation:
   - write script for presentation
   - prepare for demo
 - paper:
