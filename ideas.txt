@@ -1,4 +1,6 @@
 1. LLM agent self-debug with tools (better prompt) RL?
 2. Benchmark for code edit
 3. Train SantaCoder on code edit and targe sequence and compare.
-4. interactively acquire dependency. train searcher
+4. interactively acquire dependency. train searcher to find dependency
+5. debugger + LLM
+
