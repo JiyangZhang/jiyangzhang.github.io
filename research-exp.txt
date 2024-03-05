@@ -1,0 +1,8 @@
+我知道为啥我的model会有memory imbalance issue了：https://hf-mirror.com/docs/transformers/en/perf_train_gpu_many 和 https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255。 可能我用的是default hf trainer，然后他backend可能是pytorch dp之类的，这些会有一个master node，而这个master node就会比其他node用的memory多不少 (edited) 
+hf-mirror.comhf-mirror.com
+Efficient Training on Multiple GPUs
+We’re on a journey to advance and democratize artificial intelligence through open source and open science. (34 kB)
+https://hf-mirror.com/docs/transformers/en/perf_train_gpu_many
+
+1:10
+如果我用deepspeed之类的应该就没这种问题了
