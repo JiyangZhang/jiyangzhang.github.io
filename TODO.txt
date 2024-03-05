@@ -1,16 +1,16 @@
 Mar 4:
 - etestgen:
   - prepare examples for netests:
-    - run eval, log result for each netest
+    + run eval, log result for each netest
     - write examples to markdown file
   - prepare examples for public throw statments:
-    - write examples to markdown file
-- CoditLlama:
-  - set up env in tacc and submit job
+    + write examples to markdown file
++ CoditLlama:
+  + [Fail] set up env in tacc and submit job
 - RL:
   - finish TD learning reading
-- Paper:
-  - prompt test
++ Paper:
+  + prompt test
 
 Mar 3:
 + etestgen:
