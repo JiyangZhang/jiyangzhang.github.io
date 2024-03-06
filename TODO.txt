@@ -1,14 +1,21 @@
+
 Mar 6:
+- etestgen:
+  - pull request examples in markdown file
+  - rq2 examples (15) to Yuki
+  - add related work: https://arxiv.org/abs/2402.00097
+  - 13b model results ask Milos
+- Paper:
+  - attend two candidate talks
+
+Mar 7:
 - Paper:
   - Parallel Structures in Pre-training Data Yield In-Context Learning
   
 Mar 5:
 - etestgen:
-  + netest examples
-  - pull request examples in markdown file
+  + netest example
   + meet and discuss
-  - rq2 examples with Yuki
-  - add related work: https://arxiv.org/abs/2402.00097
 - RL:
   - TD learning
 + Paper:
