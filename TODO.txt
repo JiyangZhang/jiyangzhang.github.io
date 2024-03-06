@@ -1,14 +1,14 @@
 Mar 5:
 - etestgen:
-  - netest examples
+  + netest examples
   - pull request examples in markdown file
-  - meet and discuss
+  + meet and discuss
   - rq2 examples with Yuki
   - add related work: https://arxiv.org/abs/2402.00097
--RL:
+- RL:
   - TD learning
-- Paper:
-  - lecture: https://www.youtube.com/watch?v=A3Yx35KrSN0
++ Paper:
+  + lecture: https://www.youtube.com/watch?v=A3Yx35KrSN0
 
 
 Mar 4:
