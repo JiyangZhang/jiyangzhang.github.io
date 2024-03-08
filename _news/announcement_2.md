@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed the PhD progress review (thesis proposal)! :rocket:
+I passed the PhD progress review (thesis proposal)! 🚀
