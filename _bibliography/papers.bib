@@ -26,6 +26,8 @@
   author    = {Jiyang Zhang and Maddila, Chandra and Bairi, Ram and Bird, Christian and Raizada, Ujjwal and Agrawal, Apoorva and Jhawar, Yamini and Herzig, Kim and van Deursen, Arie},
   booktitle = ICSE-SEIP,
   year      = {2023},
+  abstract  = {Code review is an integral part of any mature software development process, and identifying the best reviewer for a code change is a well-accepted problem within the software engineering community. Selecting a reviewer who lacks expertise and understanding can slow development or result in more defects. To date, most reviewer recommendation systems rely primarily on historical file change and review information; those who changed or reviewed a file in the past are the best positioned to review in the future. We posit that while these approaches are able to identify and suggest qualified reviewers, they may be blind to reviewers who have the needed expertise and have simply never interacted with the changed files before. Fortunately, at Microsoft, we have a wealth of work artifacts across many repositories that can yield valuable information about our developers. To address the aforementioned problem, we present CORAL, a novel approach to reviewer recommendation that leverages a socio-technical graph built from the rich set of entities (developers, repositories, files, pull requests (PRs), work items, etc.) and their relationships in modern source code management systems. We employ a graph convolutional neural network on this graph and train it on two and a half years of history on 332 repositories within Microsoft. We show that CORAL is able to model the manual history of reviewer selection remarkably well. Further, based on an extensive user study, we demonstrate that this approach identifies relevant and qualified reviewers who traditional reviewer recommenders miss, and that these developers desire to be included in the review process. Finally, we find that "classical" reviewer recommendation systems perform better on smaller (in terms of developers) software projects while CORAL excels on larger projects, suggesting that there is "no one model to rule them all."
+               },
   pdf       = {papers/GNNReview.pdf}
 }
 
@@ -35,6 +37,7 @@
   booktitle = ISSTA,
   year      = {2023},
   pdf       = {papers/FineRTS.pdf},
+  abstract  = {Regression test selection (RTS) speeds up regression testing by only re-running tests that might be affected by code changes. Ideal RTS safely selects all affected tests and precisely selects only affected tests. But, aiming for this ideal is often slower than re-running all tests. So, recent RTS techniques use program analysis to trade precision for speed, i.e., lower regression testing time, or even use machine learning to trade safety for speed. We seek to make recent analysis-based RTS techniques more precise, to further speed up regression testing. Independent studies suggest that these techniques reached a “performance wall” in the speed-ups that they provide. We manually inspect code changes to discover those that do not require re-running tests that are only affected by such changes. We categorize 29 kinds of changes that we find from five projects into 13 findings, 11 of which are semantics-modifying. We enhance two RTS techniques---Ekstazi and STARTS---to reason about our findings. Using 1,150 versions of 23 projects, we evaluate the impact on safety and precision of leveraging such changes. We also evaluate if our findings from a few projects can speed up regression testing in other projects. The results show that our enhancements are effective and they can generalize. On average, they result in selecting 41.7% and 31.8% fewer tests, and take 33.7% and 28.7% less time than Ekstazi and STARTS, respectively, with no loss in safety.},
   slides    = {slides/ISSTA23.pdf},
   code      = {https://github.com/EngineeringSoftware/FineRTS}
 }
@@ -44,6 +47,8 @@
   author    = {Jiyang Zhang and Panthaplackel, Sheena and Nie, Pengyu and Li, Junyi Jessy and Mooney, Raymond and Gligoric, Milos},
   booktitle = ASE,
   year      = {2022},
+  abstract  = {Pretrained language models have been shown to be effective in many software-related generation tasks; however, they are not well-suited for editing tasks as they are not designed to reason about edits. To address this, we propose a novel pretraining objective which explicitly models edits and use it to build CoditT5, a large language model for software-related editing tasks that is pretrained on large amounts of source code and natural language comments. We fine-tune it on various downstream editing tasks, including comment updating, bug fixing, and automated code review. By outperforming standard generation-based models, we demonstrate the generalizability of our approach and its suitability for editing tasks. We also show how a standard generation model and our edit-based model can complement one another through simple reranking strategies, with which we achieve state-of-the-art performance for the three downstream editing tasks.
+               },
   pdf       = {papers/CoditT5.pdf},
   slides    = {slides/ASE22.pdf},
   code      = {https://github.com/EngineeringSoftware/CoditT5}
@@ -55,6 +60,7 @@
   booktitle = ESECFSE-DEMO,
   year      = {2022},
   pdf       = {papers/PythonContract.pdf},
+  abstract  = {Design-by-contract as a programming technique is becoming popular in Python community as various tools have been developed for automatically testing the code based on the contracts. However, there is no sufficiently large and representative Python code base with contracts to evaluate these different testing tools. We present Python-by-contract dataset containing 514 Python functions annotated with contracts using icontract library. We show that our Python-by-contract dataset can be easily used by existing testing tools that take advantage of contracts. The demo video can be found at https://youtu.be/08wZN-xh6mY.},
   code      = {https://github.com/mristin/python-by-contract-corpus},
   video     = {https://www.youtube.com/watch?v=08wZN-xh6mY}
 }
@@ -64,6 +70,8 @@
   author    = {Nie, Pengyu and Jiyang Zhang and Li, Junyi Jessy and Mooney, Raymond and Gligoric, Milos},
   booktitle = ACL,
   year      = {2022},
+  abstract  = {There has been a growing interest in developing machine learning (ML) models for code summarization tasks, e.g., comment generation and method naming. Despite substantial increase in the effectiveness of ML models, the evaluation methodologies, i.e., the way people split datasets into training, validation, and test sets, were not well studied. Specifically, no prior work on code summarization considered the timestamps of code and comments during evaluation. This may lead to evaluations that are inconsistent with the intended use cases. In this paper, we introduce the time-segmented evaluation methodology, which is novel to the code summarization research community, and compare it with the mixed-project and cross-project methodologies that have been commonly used. Each methodology can be mapped to some use cases, and the time-segmented methodology should be adopted in the evaluation of ML models for code summarization. To assess the impact of methodologies, we collect a dataset of (code, comment) pairs with timestamps to train and evaluate several recent ML models for code summarization. Our experiments show that different methodologies lead to conflicting evaluation results. We invite the community to expand the set of methodologies used in evaluations.
+               },
   pdf       = {papers/NLPEvolv.pdf},
   code      = {https://github.com/EngineeringSoftware/time-segmented-evaluation}
 }
