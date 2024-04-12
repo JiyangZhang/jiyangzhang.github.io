@@ -82,6 +82,7 @@
   booktitle = AST,
   year      = {2022},
   pdf       = {papers/MLRTS.pdf},
+  abstract  = {Regression testing–rerunning tests on each code version to detect newly–broken functionality-is important and widely practiced. But, regression testing is costly due to the large number of tests and the high frequency of code changes. Regression test selection (RTS) optimizes regression testing by only rerunning a subset of tests that can be affected by changes. Researchers showed that RTS based on program analysis can save substantial testing time for (medium-sized) open-source projects. Practitioners also showed that RTS based on machine learning (ML) works well on very large code repositories, e.g., in Facebook’s monorepository. We combine analysis-based RTS and ML-based RTS by using the latter to choose a subset of tests selected by the former. We first train several novel ML models to learn the impact of code changes on test outcomes using a training dataset that we obtain via mutation analysis. Then, we evaluate the benefits of combining ML models with analysis-based RTS on 10 projects, compared with using each technique alone. Combining ML-based RTS with two analysis-based RTS techniques-Ekstazi and STARTS-selects 25.34% and 21.44% fewer tests, respectively.},
   slides    = {slides/AST22.pdf},
   code      = {https://github.com/EngineeringSoftware/predictiverts}
 }
@@ -90,6 +91,7 @@
   title     = {8. Leveraging class hierarchy for code comprehension},
   author    = {Jiyang Zhang and Panthaplackel, Sheena and Nie, Pengyu and Li, Junyi Jessy and Mooney, Raymond J. and Gligoric, Milos},
   booktitle = CAP,
+  abstract  = {Descriptive code comments are essential for supporting code comprehension and maintenance. We propose the task of automatically generating comments for overriding methods. We formulate a novel framework which accommodates the unique contextual and linguistic reasoning that is required for performing this task. Our approach features: (1) incorporating context from the class hierarchy; (2) conditioning on learned, latent representations of specificity to generate comments that capture the more specialized behavior of the overriding method; and (3) unlikelihood training to discourage predictions which do not conform to invariant characteristics of the comment corresponding to the overridden method. Our experiments show that the proposed approach is able to generate comments for overriding methods of higher quality compared to prevailing comment generation techniques.},
   year      = {2020},
   pdf       = {papers/HieComment.pdf}
 }
@@ -98,6 +100,7 @@
   title     = {9. Integrated Learning of Features and Ranking Function in Information Retrieval},
   author    = {Nie, Yifan and Jiyang Zhang and Nie, Jian-Yun},
   booktitle = ICTIR,
+  abstract  = {Recent deep learning models for information retrieval typically aim to learn features either about the contents of the document and the query, or about the interactions between them. However, the existing literature shows that document ranking depends simultaneously on many factors, including both content and interaction features. The integration of both types of neural features has not been extensively studied. In addition, many studies have also shown that the deep neural features cannot replace completely the traditional features, but are complementary. It is thus reasonable to combine deep neural features with traditional features. In this paper, we propose an integrated end-to-end learning framework based on learning-to-rank (L2R) to learn both neural features and the L2R ranking function simultaneously. The framework also has the flexibility to integrate arbitrary traditional features. Our experiments on public datasets confirm that such an integrated learning strategy is better than separate learning of features and ranking function, and integrating traditional features can further improve the results.},
   year      = {2019},
   pdf       = {papers/IR.pdf}
 }
