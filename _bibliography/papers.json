@@ -1,13 +1,5 @@
 [
     {
-        "macro": "ZhangETAL24Exlong",
-        "title": "Generating Exceptional Behavior Tests with Reasoning Augmented Large Language Models",
-        "authors": "Jiyang Zhang and Liu, Yu and Nie Pengyu and Li, Jessy Junyi and Gligoric, Milos",
-        "booktitle": "Arxiv",
-        "year": 2024,
-        "arxiv": "2405.14619"
-    },
-    {
         "macro": "ZhangETALDeltaCode",
         "title": "Multilingual Code Co-Evolution Using Large Language Models",
         "authors": "Jiyang Zhang and Pengyu Nie and Junyi Jessy Li and Milos Gligoric",
