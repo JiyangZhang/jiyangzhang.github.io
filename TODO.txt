@@ -2,3 +2,4 @@
 0. **Update Script** to include extra fields!
 1. Update `_bibliograph/papers.json`
 2. Execute `python bib_generator.py` to get the updated `papers.bib`.
+3. Update the date in publications.md file
