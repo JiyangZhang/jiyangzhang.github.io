@@ -6,7 +6,7 @@ subtitle: Ph.D. @ UT Austin
 
 profile:
   align: right
-  image: profile2023.JPG
+  image: profile2025.JPG
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
