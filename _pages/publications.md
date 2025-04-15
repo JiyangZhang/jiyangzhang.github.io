@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Last updated Jan 3rd, 2025
+description:
 nav: true
 nav_order: 1
 ---
