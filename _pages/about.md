@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. @ UT Austin
+subtitle: Research Engineer @ Google
 
 profile:
   align: right
@@ -15,11 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Electrical and Computer
-Engineering at [University of Texas at Austin](https://www.utexas.edu/), advised by [Prof. Milos
-Gligoric](http://users.ece.utexas.edu/~gligoric/) and [Junyi Jessy Li](https://jessyli.com/). I am interested in
-applying Natural Language Processing (NLP) and Machine Learning techniques
-to Software Engineering to help software engineers be more productive.
+I am a Research Engineer at Google working on improving the coding capability of Gemini.
+I graduated from [University of Texas at Austin](https://www.utexas.edu/) with a PhD in Software Engineering.
+My research interests include Code LLMs, LLM agents, LLM-based software engineering, and LLM general intelligence.
 You can find my CV [here](/assets/pdf/JiyangResume.pdf).
 <br>
 Previously,
