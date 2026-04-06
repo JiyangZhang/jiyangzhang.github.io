@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Engineer at Google working on improving the coding capability of Gemini.
+I work on Gemini post-training at Google.
 I graduated from [University of Texas at Austin](https://www.utexas.edu/) with a PhD in Software Engineering.
 My research interests include Code LLMs, LLM agents, LLM-based software engineering, and LLM general intelligence.
 You can find my CV [here](/assets/pdf/JiyangResume.pdf).
